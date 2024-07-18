@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D75E4522C47A09200A93692 /* MoreScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E4512C47A09200A93692 /* MoreScreen.swift */; };
+		6D75E4542C47A17D00A93692 /* ChatsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E4532C47A17D00A93692 /* ChatsScreen.swift */; };
+		6D75E4562C47A96200A93692 /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E4552C47A96200A93692 /* TableView.swift */; };
+		6D75E4582C47AA4500A93692 /* ContactsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E4572C47AA4500A93692 /* ContactsScreen.swift */; };
+		6D75E45E2C490EC100A93692 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E45D2C490EC100A93692 /* OnboardingView.swift */; };
+		6D75E4612C49272700A93692 /* TMFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E4602C49272700A93692 /* TMFont.swift */; };
+		6D75E46A2C49359A00A93692 /* TMLocalizableKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E4692C49359A00A93692 /* TMLocalizableKeys.swift */; };
+		6D75E46D2C49368800A93692 /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E46C2C49368800A93692 /* String+Extension.swift */; };
+		6D75E46F2C49383400A93692 /* TMIconKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E46E2C49383400A93692 /* TMIconKeys.swift */; };
+		6D75E4722C49465500A93692 /* ContinueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D75E4712C49465500A93692 /* ContinueButton.swift */; };
+		6D75E4982C4958C000A93692 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6D75E49A2C4958C000A93692 /* Localizable.strings */; };
+		6D75E49D2C4958DF00A93692 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6D75E49F2C4958DF00A93692 /* Localizable.strings */; };
 		6D7F66FA2C4799BA0025D830 /* TestMessengerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D7F66F92C4799BA0025D830 /* TestMessengerApp.swift */; };
 		6D7F66FC2C4799BA0025D830 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D7F66FB2C4799BA0025D830 /* ContentView.swift */; };
 		6D7F66FE2C4799BC0025D830 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D7F66FD2C4799BC0025D830 /* Assets.xcassets */; };
@@ -14,6 +26,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6D75E4512C47A09200A93692 /* MoreScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreScreen.swift; sourceTree = "<group>"; };
+		6D75E4532C47A17D00A93692 /* ChatsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatsScreen.swift; sourceTree = "<group>"; };
+		6D75E4552C47A96200A93692 /* TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
+		6D75E4572C47AA4500A93692 /* ContactsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsScreen.swift; sourceTree = "<group>"; };
+		6D75E45D2C490EC100A93692 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		6D75E4602C49272700A93692 /* TMFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TMFont.swift; sourceTree = "<group>"; };
+		6D75E4692C49359A00A93692 /* TMLocalizableKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TMLocalizableKeys.swift; sourceTree = "<group>"; };
+		6D75E46C2C49368800A93692 /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		6D75E46E2C49383400A93692 /* TMIconKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TMIconKeys.swift; sourceTree = "<group>"; };
+		6D75E4712C49465500A93692 /* ContinueButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinueButton.swift; sourceTree = "<group>"; };
+		6D75E4992C4958C000A93692 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6D75E49E2C4958DF00A93692 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		6D7F66F62C4799BA0025D830 /* TestMessenger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestMessenger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D7F66F92C4799BA0025D830 /* TestMessengerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestMessengerApp.swift; sourceTree = "<group>"; };
 		6D7F66FB2C4799BA0025D830 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +56,84 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6D75E4592C490C0F00A93692 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E46B2C49364A00A93692 /* Extensions */,
+				6D75E4702C49459E00A93692 /* CustomElements */,
+				6D75E45C2C490E9D00A93692 /* Onboarding */,
+				6D7F66F92C4799BA0025D830 /* TestMessengerApp.swift */,
+				6D7F66FB2C4799BA0025D830 /* ContentView.swift */,
+				6D75E4552C47A96200A93692 /* TableView.swift */,
+				6D75E4572C47AA4500A93692 /* ContactsScreen.swift */,
+				6D75E4532C47A17D00A93692 /* ChatsScreen.swift */,
+				6D75E4512C47A09200A93692 /* MoreScreen.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		6D75E45A2C490CB000A93692 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E4622C492A0200A93692 /* Localizable */,
+				6D75E45F2C49270900A93692 /* Fonts */,
+				6D7F66FF2C4799BC0025D830 /* Preview Content */,
+				6D7F66FD2C4799BC0025D830 /* Assets.xcassets */,
+				6D75E46E2C49383400A93692 /* TMIconKeys.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		6D75E45C2C490E9D00A93692 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E45D2C490EC100A93692 /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		6D75E45F2C49270900A93692 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E4602C49272700A93692 /* TMFont.swift */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		6D75E4622C492A0200A93692 /* Localizable */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E49A2C4958C000A93692 /* Localizable.strings */,
+				6D75E4692C49359A00A93692 /* TMLocalizableKeys.swift */,
+				6D75E49F2C4958DF00A93692 /* Localizable.strings */,
+			);
+			path = Localizable;
+			sourceTree = "<group>";
+		};
+		6D75E46B2C49364A00A93692 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E46C2C49368800A93692 /* String+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		6D75E4702C49459E00A93692 /* CustomElements */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E4732C49465900A93692 /* Buttons */,
+			);
+			path = CustomElements;
+			sourceTree = "<group>";
+		};
+		6D75E4732C49465900A93692 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				6D75E4712C49465500A93692 /* ContinueButton.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
 		6D7F66ED2C4799BA0025D830 = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +153,8 @@
 		6D7F66F82C4799BA0025D830 /* TestMessenger */ = {
 			isa = PBXGroup;
 			children = (
-				6D7F66F92C4799BA0025D830 /* TestMessengerApp.swift */,
-				6D7F66FB2C4799BA0025D830 /* ContentView.swift */,
-				6D7F66FD2C4799BC0025D830 /* Assets.xcassets */,
-				6D7F66FF2C4799BC0025D830 /* Preview Content */,
+				6D75E45A2C490CB000A93692 /* Resources */,
+				6D75E4592C490C0F00A93692 /* App */,
 			);
 			path = TestMessenger;
 			sourceTree = "<group>";
@@ -109,6 +209,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 6D7F66ED2C4799BA0025D830;
 			productRefGroup = 6D7F66F72C4799BA0025D830 /* Products */;
@@ -126,6 +227,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6D7F67012C4799BC0025D830 /* Preview Assets.xcassets in Resources */,
+				6D75E49D2C4958DF00A93692 /* Localizable.strings in Resources */,
+				6D75E4982C4958C000A93692 /* Localizable.strings in Resources */,
 				6D7F66FE2C4799BC0025D830 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,12 +240,41 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D75E4722C49465500A93692 /* ContinueButton.swift in Sources */,
+				6D75E4582C47AA4500A93692 /* ContactsScreen.swift in Sources */,
 				6D7F66FC2C4799BA0025D830 /* ContentView.swift in Sources */,
+				6D75E46A2C49359A00A93692 /* TMLocalizableKeys.swift in Sources */,
+				6D75E4542C47A17D00A93692 /* ChatsScreen.swift in Sources */,
+				6D75E4522C47A09200A93692 /* MoreScreen.swift in Sources */,
+				6D75E46F2C49383400A93692 /* TMIconKeys.swift in Sources */,
 				6D7F66FA2C4799BA0025D830 /* TestMessengerApp.swift in Sources */,
+				6D75E4562C47A96200A93692 /* TableView.swift in Sources */,
+				6D75E45E2C490EC100A93692 /* OnboardingView.swift in Sources */,
+				6D75E46D2C49368800A93692 /* String+Extension.swift in Sources */,
+				6D75E4612C49272700A93692 /* TMFont.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6D75E49A2C4958C000A93692 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6D75E4992C4958C000A93692 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		6D75E49F2C4958DF00A93692 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6D75E49E2C4958DF00A93692 /* ru */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		6D7F67022C4799BC0025D830 /* Debug */ = {
@@ -150,6 +282,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -213,6 +346,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -271,15 +405,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TestMessenger/Preview Content\"";
-				DEVELOPMENT_TEAM = F9ZCG6RK45;
+				DEVELOPMENT_ASSET_PATHS = "\"TestMessenger/Resources/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,9 +421,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Damir.TestMessenger;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -300,15 +437,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TestMessenger/Preview Content\"";
-				DEVELOPMENT_TEAM = F9ZCG6RK45;
+				DEVELOPMENT_ASSET_PATHS = "\"TestMessenger/Resources/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,9 +453,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Damir.TestMessenger;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
