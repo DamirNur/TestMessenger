@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TestMessenger
+
+  Created by Damir Nuriev on 18.07.2024.
+  
+*/
+
+//Onboarding Screen
+"onboarding_title" = "Легко общайтесь с семьей и друзьями из разных стран";
+"start_messaging" = "Начать Общение";
+
+//Tab
+"tab_contacts" = "Контакты";
+"tab_chats" = "Чаты";
+"tab_more" = "Еще";
